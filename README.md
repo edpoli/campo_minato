@@ -10,6 +10,6 @@
 | Nome | Linguaggio | Versione |
 |------|------------|----------|      
 | HTML |  Mark-up   |   5      |
-| JavaScript| logic     |  ECMAScript 2025|
+| JavaScript| logic     |  Es7|
 
 
